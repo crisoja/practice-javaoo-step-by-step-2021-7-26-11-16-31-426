@@ -8,16 +8,6 @@ public class Person {
     private Klass klass;
     private final int number;
 
-//    public Person(String name, int age) {
-//        this.name = name;
-//        this.age = age;
-//    }
-//
-//    public Person(String name, int age,int klass) {
-//        this.klass = klass;
-//        this.name = name;
-//        this.age = age;
-//    }
      public Person(int number,String name, int age){
          this.number = number;
          this.name = name;
